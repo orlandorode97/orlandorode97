@@ -7,7 +7,7 @@ Software Engineer, from México 🇲🇽
 [![Orlando's GitHub stats](https://github-readme-stats.vercel.app/api?username=orlandorode97&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://www.github.com/katycodesstuff" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/orlandorode97" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/orlandorode97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
