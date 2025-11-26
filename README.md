@@ -9,5 +9,4 @@ Software Engineer, from México 🇲🇽
 
 
 
-<a href="https://www.github.com/orlandorode97" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/orlandorode97?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=orlandorode97&theme=gruvbox)](https://git.io/streak-stats)
