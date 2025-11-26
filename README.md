@@ -9,4 +9,4 @@ Software Engineer, from México 🇲🇽
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=orlandorode97&theme=gruvbox)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=orlandorode97&theme=gruvbox" alt="GitHub Streak" /></a>
