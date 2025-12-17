@@ -1,7 +1,9 @@
 ### Hola, hello, bonjour 👋
-----------------------
-Software Engineer, from México 🇲🇽
-----------------------
+
+---
+
+## Software Engineer, from México 🇲🇽
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orlandorode97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=orlandorode97&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -47,6 +49,6 @@ Software Engineer, from México 🇲🇽
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/orlandorode97/orlandorode97/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/orlandorode97/orlandorode97/blob/output/snake.svg" alt="Snake animation" />
 
 ###
