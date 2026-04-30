@@ -46,7 +46,7 @@ A fast, minimal system information tool written in Go.
 
 ---
 
-### 🔹 [countdown-tui](https://github.com/orlandoromo/countdown-tui)
+### 🔹 [countdown-tui](https://github.com/orlandorode97/countdown-tui)
 A minimal terminal countdown timer synced with Google Calendar events.
 - Fetches upcoming events from your primary Google Calendar
 - Skips all-day events and events longer than 24 hours
