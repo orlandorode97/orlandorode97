@@ -46,6 +46,18 @@ A fast, minimal system information tool written in Go.
 
 ---
 
+### 🔹 [countdown-tui](https://github.com/orlandoromo/countdown-tui)
+A minimal terminal countdown timer synced with Google Calendar events.
+- Fetches upcoming events from your primary Google Calendar
+- Skips all-day events and events longer than 24 hours
+- Uses Google device authorization flow (no browser redirect)
+- Persistent token storage for seamless re-authentication
+- Built with Bubble Tea v2 TUI framework and bigtext rendering
+
+**Tech:** Go, Bubble Tea v2, Google Calendar API
+
+---
+
 #### 🔹 [gofilter](https://github.com/orlandorode97/gofilter)
 A flexible filtering utility for structured data processing.
 
