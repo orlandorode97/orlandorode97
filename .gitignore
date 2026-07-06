@@ -1,0 +1,15 @@
+# Node dependencies & build output
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Env & local overrides
+.env
+.env.local
+*.local
+
+# OS / editor
+.DS_Store
