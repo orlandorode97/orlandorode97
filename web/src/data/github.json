@@ -1,0 +1,323 @@
+{
+  "profile": {
+    "login": "orlandorode97",
+    "name": "Orlando Romo",
+    "avatar_url": "https://avatars.githubusercontent.com/u/34588445?v=4",
+    "html_url": "https://github.com/orlandorode97",
+    "bio": null,
+    "company": null,
+    "location": null,
+    "blog": null,
+    "twitter_username": null,
+    "followers": 2,
+    "following": 9,
+    "public_repos": 42,
+    "created_at": "2017-12-16T00:31:04Z"
+  },
+  "repos": [
+    {
+      "name": "gofetch",
+      "description": "gofetch is CLI tool to fetch the operative system information",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/gofetch",
+      "homepage": null,
+      "stargazers_count": 5,
+      "forks_count": 0,
+      "topics": [
+        "cli",
+        "command-line",
+        "distro",
+        "golang",
+        "screenshot"
+      ],
+      "updated_at": "2025-12-18T20:02:27Z"
+    },
+    {
+      "name": "github-stats",
+      "description": " A minimalist terminal user interface (TUI) application that displays your GitHub statistics in a compact, colorful dashboard format.",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/github-stats",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-05-11T18:26:28Z"
+    },
+    {
+      "name": "gofilter",
+      "description": "gfilter is a CLI tool to transform an image to any filter such as a greyscale, inverted colors, etc",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/gofilter",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-05-04T21:57:44Z"
+    },
+    {
+      "name": "orlandorode97",
+      "description": "This is my github profile ALV",
+      "language": null,
+      "html_url": "https://github.com/orlandorode97/orlandorode97",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-04-30T21:13:30Z"
+    },
+    {
+      "name": "countdown-ui",
+      "description": "A terminal application that displays a real-time countdown to your next Google Calendar.",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/countdown-ui",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-04-30T21:09:15Z"
+    },
+    {
+      "name": "dotfiles",
+      "description": "Dotfiles",
+      "language": "Lua",
+      "html_url": "https://github.com/orlandorode97/dotfiles",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-04-13T18:49:00Z"
+    },
+    {
+      "name": "c-as-go",
+      "description": "Learning C for someone with experience on Go just because I'm bored and I don't know what to do with the life.",
+      "language": "C",
+      "html_url": "https://github.com/orlandorode97/c-as-go",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-04-02T21:02:26Z"
+    },
+    {
+      "name": "go-examples",
+      "description": "I usually need to create a small example to fully understand how something behaves. These examples are brief and may not follow course best practices, but they help me grasp the core idea.",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/go-examples",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2026-03-12T22:05:00Z"
+    },
+    {
+      "name": "flashcards",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/flashcards",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-09-01T20:20:04Z"
+    },
+    {
+      "name": "grpc-stuff",
+      "description": "Back to learn this thing...but even better",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/grpc-stuff",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-06-25T20:48:14Z"
+    },
+    {
+      "name": "rpc-cli",
+      "description": "This is an rpc cli tool that stores/deletes/retreive keys from redis; to learn more about rpcs",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/rpc-cli",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-04-25T22:53:19Z"
+    },
+    {
+      "name": "prisma-gh",
+      "description": null,
+      "language": "Shell",
+      "html_url": "https://github.com/orlandorode97/prisma-gh",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-04-16T15:17:33Z"
+    },
+    {
+      "name": "gh-example",
+      "description": null,
+      "language": null,
+      "html_url": "https://github.com/orlandorode97/gh-example",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-04-16T14:47:51Z"
+    },
+    {
+      "name": "gh",
+      "description": "This is another CLI tool designed to streamline git branch checkout - offering a faster and more efficient workflow",
+      "language": null,
+      "html_url": "https://github.com/orlandorode97/gh",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2025-03-28T21:27:53Z"
+    },
+    {
+      "name": "jsonapi-lib",
+      "description": "jsonapi-lib provides the JSON:API specification for any Golang REST API.",
+      "language": null,
+      "html_url": "https://github.com/orlandorode97/jsonapi-lib",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2024-10-31T20:54:10Z"
+    },
+    {
+      "name": "simplebank",
+      "description": "This another app with go and http and grpc stuff, just to practice and following this course https://www.youtube.com/watch?v=rx6CPDK_5mU&list=PLy_6D98if3ULEtXtNSY_2qN21VCKgoQAE&ab_channel=TECHSCHOOL",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/simplebank",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 1,
+      "topics": [],
+      "updated_at": "2024-05-22T21:31:56Z"
+    },
+    {
+      "name": "gitnotifyme",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/gitnotifyme",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2024-02-16T16:55:24Z"
+    },
+    {
+      "name": "protobuffers",
+      "description": "Protobuffers documentation following the official docs and best practices (To learn protocol buffers)",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/protobuffers",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2023-11-30T22:09:57Z"
+    },
+    {
+      "name": "the-rust-programming-language",
+      "description": "This repo attempts to following all the content of the rust programming language book.",
+      "language": "Rust",
+      "html_url": "https://github.com/orlandorode97/the-rust-programming-language",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2022-06-03T05:44:37Z"
+    },
+    {
+      "name": "grpc-course",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/grpc-course",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2022-05-04T05:30:16Z"
+    },
+    {
+      "name": "go-ambassador",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/go-ambassador",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-12-17T23:50:15Z"
+    },
+    {
+      "name": "mastering-go-book",
+      "description": "This repo shows every chapter seen of the mastering-go book in its second edition",
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/mastering-go-book",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-12-09T06:03:08Z"
+    },
+    {
+      "name": "codesignal-challenges",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/codesignal-challenges",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-11-23T04:12:10Z"
+    },
+    {
+      "name": "graphql-example",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/graphql-example",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-08-24T06:15:11Z"
+    },
+    {
+      "name": "tcp-example",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/tcp-example",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-08-24T06:09:35Z"
+    },
+    {
+      "name": "concurrency",
+      "description": null,
+      "language": "Go",
+      "html_url": "https://github.com/orlandorode97/concurrency",
+      "homepage": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "topics": [],
+      "updated_at": "2021-08-24T06:00:19Z"
+    }
+  ],
+  "stats": {
+    "totalStars": 5,
+    "ownRepos": 26,
+    "languages": {
+      "Go": 18,
+      "Lua": 1,
+      "C": 1,
+      "Shell": 1,
+      "Rust": 1
+    }
+  },
+  "generatedAt": "2026-07-06T22:38:36.662Z"
+}
